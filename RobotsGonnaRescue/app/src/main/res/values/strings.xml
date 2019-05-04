@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RescueRobot</string>
+    <string name="nulltemp">null</string>
+    <string name="recieved">recieved:</string>
+    <string name="connectivity">Connectivity:</string>
+    <string name="its_here">Its here</string>
+    <string name="retry">Retry</string>
+    <string name="movetarget">MoveTarget:</string>
+    <string name="_50">50</string>
+    <string name="_90">90</string>
+    <string name="todo">TODO</string>
+    <string name="rotationtarget">RotationTarget:</string>
+    <string name="_000">000</string>
+</resources>

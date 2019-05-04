@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Chica/Desktop/eclipse-workspace/lib/jars/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/Chica/Desktop/eclipse-workspace/lib/natives"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Chica/Desktop/eclipse-workspace/lib/jars/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chica/Desktop/eclipse-workspace/lib/jars/slick-util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chica/AppData/Local/Microsoft/Windows/INetCache/IE/NJ37DK5R/webcam-capture-0.3.10[1].jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chica/Desktop/libs/bridj-0.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chica/Desktop/libs/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chica/Desktop/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chica/Desktop/logback-core-1.2.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
